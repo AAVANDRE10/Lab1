@@ -18,6 +18,18 @@
             android:layout_height="wrap_content"
             android:text="Open AT2" />
 
+        <Button
+            android:id="@+id/btnChangeLanguagePt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/change_language_pt" />
+
+        <Button
+            android:id="@+id/btnChangeLanguageEn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/change_language_en" />
+
         <TextView
             android:id="@+id/tvPageIdentifier"
             android:layout_width="wrap_content"
