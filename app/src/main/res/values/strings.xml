@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="change_language">Change Language</string>
+    <string name="at1">AT1</string>
+    <string name="at2">AT2</string>
+    <string name="close_at2">Close AT2</string>
+    <string name="student_info">Name: Andre Vale\nAge: 23\nNumber: 27986</string>
+    <string name="change_language_pt">Portuguese</string>
+    <string name="change_language_en">English</string>
+</resources>
